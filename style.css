@@ -61,7 +61,7 @@ li {
 
 li:first-child {
   display: inline-block;
-  color: #daa6c3;
+  color: #E8E3E3;
   font-size: 1.5em;
   font-weight: 600;
   text-align: center;
@@ -70,12 +70,12 @@ li:first-child {
 }
 
 a {
-  color: #525252;
+  color: #E8E3E3;
   font-size: 1.1em;
   text-decoration: none;
 }
 
 a:hover {
-  color: #e0db96;
+  color: #B66467;
   font-style: italic;
 }
