@@ -7,9 +7,9 @@ html {
 
 body {
   display: flex;
-  color: #dcd9c0;
-  background: #101010;
-  font-family: Pragmata Pro;
+  color: #E8E3E3;
+  background: #151515;
+  font-family: Jetbrains Mono;
   margin-right: 9em;
   padding: 1em;
 }
